@@ -15,7 +15,7 @@
 3. The cops can move just one square at a time.
 4. If the cops don't find a path to the robbers signifies that they losed.
 
-## Taks to improve code
+## Tasks to improve code
 - [ ] Code cleanup
 - [ ] Code standardization
 - [ ] Improve code Performance 
